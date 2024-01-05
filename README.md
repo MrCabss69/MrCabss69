@@ -1,17 +1,33 @@
-### Am I a pro githuber now?
-No, I'm not. 
 
-<!--
-**MrCabss69/MrCabss69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
+Mainly a Python developer, sometimes I play chess and loose some money playing poker
 
-Here are some ideas to get you started:
+## Which roles I have contributed
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Data Extraction
+  - Webscrapping
+  - Script cleaning and formatting
+  - ML applied to info extraction
+    
+#### Data Managment
+  - Database managment
+  - Data Preprocessing
+  - Data Processing
+  - Data Visualization
+
+#### Data Analysis
+  - Model architectures
+  - Hyperparameters optimization
+  - SVM, Decision Trees, Clustering, Neighbours Search
+  - Regressions
+  - Topological properties
+
+#### Algorithmics
+
+#### Web Frontend
+
+#### Web Backend
+
+#### Decision Making and Game Theory
+
+#### Graphic Design
