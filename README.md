@@ -3,9 +3,19 @@ I am a Python developer passionate about AI and its applications. Between code a
 
 ## 🌟 Features and contributions
 
+#### Automatization
+- Scripts (bash / python)
+- Systemd services
+- Cron jobs
+Example: https://github.com/MrCabss69/DeepState_Vigilant
+
+#### API Managment and Python Wrappers
+Example: https://github.com/MrCabss69/Python-Catastro
+
 #### Data extraction
 - Web scraping
 - Data persistance
+Example: https://github.com/MrCabss69/Yt-Playlist-Download
     
 #### Data management
 - Database administration
@@ -18,8 +28,11 @@ I am a Python developer passionate about AI and its applications. Between code a
 - Techniques such as SVM, Decision Trees, Clustering and Neighbor Search
 - Analysis of regressions and topological properties.
 
-#### Algorithmic
+
+#### Algorithmics
 - Development and optimization applied to reducing time complexity. Example: Zoibriest Hash
+Example: https://github.com/MrCabss69/PeaceChess
+
 
 #### Web development
 - Frontend: Creation of interactive user interfaces.
@@ -32,6 +45,11 @@ I am a Python developer passionate about AI and its applications. Between code a
 - Q-learning
 - Regret Match
 - CFR/Deep CFR
+Examples:
+- https://github.com/MrCabss69/PeaceChess
+- https://github.com/MrCabss69/Machine-Learning-Blackjack
+- https://github.com/MrCabss69/MiniFlopzilla
+- https://github.com/MrCabss69/LightsOut
   
 #### Graphic design
 - Creation of graphics and visual elements to communicate ideas effectively.
