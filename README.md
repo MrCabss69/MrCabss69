@@ -22,6 +22,7 @@ Example: https://github.com/MrCabss69/Yt-Playlist-Download
 
 #### Algorithmics
 - Development and optimization applied to reducing time complexity (ex: Zoibriest Hashing)
+
 Example: https://github.com/MrCabss69/PeaceChess
 
 
