@@ -5,8 +5,7 @@ I am a Python developer passionate about AI and its applications. Between code a
 
 #### Data extraction
 - Web scraping
-- Cleaning and formatting scripts.
-- Machine Learning applied to information extraction
+- Data persistance
     
 #### Data management
 - Database administration
@@ -21,7 +20,6 @@ I am a Python developer passionate about AI and its applications. Between code a
 
 #### Algorithmic
 - Development and optimization applied to reducing time complexity. Example: Zoibriest Hash
-
 
 #### Web development
 - Frontend: Creation of interactive user interfaces.
