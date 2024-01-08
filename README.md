@@ -7,6 +7,7 @@ I am a Python developer passionate about AI and its applications. Between code a
 - Scripts (bash / python)
 - Systemd services
 - Cron jobs
+  
 Example: https://github.com/MrCabss69/DeepState_Vigilant
 
 #### API Managment and Python Wrappers
@@ -15,7 +16,32 @@ Example: https://github.com/MrCabss69/Python-Catastro
 #### Data extraction
 - Web scraping
 - Data persistance
+  
 Example: https://github.com/MrCabss69/Yt-Playlist-Download
+
+
+#### Algorithmics
+- Development and optimization applied to reducing time complexity (ex: Zoibriest Hashing)
+Example: https://github.com/MrCabss69/PeaceChess
+
+
+#### Decision making and game theory
+- Minimax
+- Alpha-beta pruning
+- Monte Carlo Tree Search
+- Q-learning
+- Regret Match
+- CFR/Deep CFR
+
+
+Examples:
+- https://github.com/MrCabss69/PeaceChess
+- https://github.com/MrCabss69/Machine-Learning-Blackjack
+- https://github.com/MrCabss69/MiniFlopzilla
+- https://github.com/MrCabss69/LightsOut
+
+
+## Others
     
 #### Data management
 - Database administration
@@ -29,27 +55,9 @@ Example: https://github.com/MrCabss69/Yt-Playlist-Download
 - Analysis of regressions and topological properties.
 
 
-#### Algorithmics
-- Development and optimization applied to reducing time complexity. Example: Zoibriest Hash
-Example: https://github.com/MrCabss69/PeaceChess
-
-
 #### Web development
 - Frontend: Creation of interactive user interfaces.
 - Backend: Implementation of server logic and database management.
 
-#### Decision making and game theory
-- Minimax
-- Alpha-beta pruning
-- Monte Carlo Tree Search
-- Q-learning
-- Regret Match
-- CFR/Deep CFR
-Examples:
-- https://github.com/MrCabss69/PeaceChess
-- https://github.com/MrCabss69/Machine-Learning-Blackjack
-- https://github.com/MrCabss69/MiniFlopzilla
-- https://github.com/MrCabss69/LightsOut
-  
 #### Graphic design
 - Creation of graphics and visual elements to communicate ideas effectively.
