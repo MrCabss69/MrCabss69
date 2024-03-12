@@ -12,7 +12,7 @@ Welcome to my portfolio! Lately I tend to focus in game theory, algorithmic solu
 ## Game Theory and Strategic Decision-Making
 
 
-- [PeaceChess](https://github.com/MrCabss69/PeaceChess): chess engine with a-b prunning and zoibriest hashing / MCTS, tree-search and optimization.
+- [PeaceChess](https://github.com/MrCabss69/PeaceChess): chess engine with a-b prunning and Zobrist hashing / MCTS, tree-search and optimization.
 
 
 ## Machine Learning
