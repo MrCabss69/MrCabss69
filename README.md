@@ -2,7 +2,7 @@
 
 # 🌟 Skills and Contributions
 
-Welcome to my portfolio! Lately I tend to focus in game theory, algorithmic solutions, machine learning, and prompt engineering to address complex challenges.
+Welcome to my portfolio! Lately I tend to focus in game theory, algorithmic solutions, machine learning, and prompt engineering to address programming challenges.
 
 <p align="center">
   <img src="peacechess.webp" width="50%" alt="Descripción">
