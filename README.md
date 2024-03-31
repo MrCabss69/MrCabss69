@@ -1,6 +1,3 @@
-
-
-# 🌟 
 <p align="center">
   <img src="peacechess.webp" width="50%" alt="Descripción">
 </p>
