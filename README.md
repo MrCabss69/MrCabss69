@@ -12,8 +12,10 @@
 ## Machine Learning
 - [Gymnasium](https://github.com/MrCabss69/Gymnasium): dedicated to applying reinforcement learning in various settings.
 
+- [Machine-Learning](https://github.com/MrCabss69/Machine-Learning): general ML, tutorials and more
 
-- [Machine-Learning-Blackjack](https://github.com/MrCabss69/Machine-Learning-Blackjack): employing neural networks, reinforcement learning, and genetic algorithms for optimizing Blackjack strategies.
+
+- [Machine-Learning-Blackjack](https://github.com/MrCabss69/Machine-Learning-Blackjack): employing neural networks and RL for experimenting different Blackjack strategies.
 
 
 
