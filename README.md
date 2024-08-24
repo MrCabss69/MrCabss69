@@ -3,11 +3,11 @@
 </p>
 
 
-## Web
+## Live Demos
 http://pablo.nscabezon.com/ (developing)
+https://mrcabss69.github.io/LexicalMotion/ 
 
-## Decision-Making
-
+## ML & Decision-Making
 
 ### Reinforce Learning
 - [Gymnasium](https://github.com/MrCabss69/Gymnasium): dedicated to applying reinforcement learning in various settings.
@@ -17,8 +17,7 @@ http://pablo.nscabezon.com/ (developing)
 - [PeaceChess](https://github.com/MrCabss69/PeaceChess): chess engine with a-b prunning and Zobrist hashing / MCTS, tree-search and optimization.
 
 
-## Understanding AI
-
+### Understanding AI
 - [Machine-Learning](https://github.com/MrCabss69/Machine-Learning): general ML, tutorials and more
 
 ## Tools
@@ -33,3 +32,4 @@ http://pablo.nscabezon.com/ (developing)
 
 ## Wrappers
 - [Python-Catastro](https://github.com/MrCabss69/Python-Catastro): A wrapper for straightforward Spanish Catastro API access via Python.
+
