@@ -58,9 +58,9 @@ Here are some ideas to get you started:
 - [Youtube List Downloader](https://github.com/MrCabss69/Yt-Playlist-Download)
 
 ### Puzzles
-- [Espirales](https://github.com/MrCabss69/Espirales
-- [LightsOut](https://github.com/MrCabss69/LightsOut
-- [FloatingBits](https://github.com/MrCabss69/FloatingBits
+- [Espirales](https://github.com/MrCabss69/Espirales)
+- [LightsOut](https://github.com/MrCabss69/LightsOut)
+- [FloatingBits](https://github.com/MrCabss69/FloatingBits)
 
 ### Coding Art
 - [OrbitalCanvas](https://github.com/MrCabss69/OrbitalCanvas)
