@@ -20,11 +20,14 @@ Here are some ideas to get you started:
   <img src="peacechess.webp" width="45%" alt="Descripción">
 </p>
 
+## Web Pages
+### Personal
+[Python-Lair](https://python-lair.replit.app/)
+### Art
+[Geometría Aurea](https://geometria-aurea.replit.app/)
 
 ## Live Demos 🌱
-[Personal Website](http://pablo.nscabezon.com/)
 
-[Art Website](https://geometria-aurea.replit.app/)
 
 [Visual App Demo](https://mrcabss69.github.io/LexicalMotion/)
 
