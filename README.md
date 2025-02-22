@@ -1,4 +1,4 @@
-# ¡Hola, Bienvenido! 👋
+# ¡Hola! Bienvenid@ 👋
 
 <p align="center">
   <img src="peacechess.webp" width="45%" alt="Imagen representativa">
