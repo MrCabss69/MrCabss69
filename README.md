@@ -21,11 +21,16 @@ Here are some ideas to get you started:
 </p>
 
 ## Web Pages
-### Personal
-[Python-Lair](https://python-lair.replit.app/)
-### Art
-[Geometría Aurea](https://geometria-aurea.replit.app/)
-
+  <div style="margin-top: 20px;">
+    <a href="https://python-lair.replit.app/" 
+       style="background-color: #3498db; color: white; padding: 12px 25px; margin: 10px; text-decoration: none; border-radius: 5px; font-weight: bold;">
+      Python-Lair
+    </a>
+    <a href="https://geometria-aurea.replit.app/" 
+       style="background-color: #e74c3c; color: white; padding: 12px 25px; margin: 10px; text-decoration: none; border-radius: 5px; font-weight: bold;">
+      Geometría Aurea
+    </a>
+  </div>
 ## Live Demos 🌱
 
 
