@@ -1,74 +1,77 @@
-## Hi there 👋
-
-<!--
-**MrCabss69/MrCabss69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+# ¡Hola, Bienvenido! 👋
 
 <p align="center">
-  <img src="peacechess.webp" width="45%" alt="Descripción">
+  <img src="peacechess.webp" width="45%" alt="Imagen representativa">
 </p>
 
-## Web Pages
-  <div style="margin-top: 20px;">
-    <a href="https://python-lair.replit.app/" 
-       style="background-color: #3498db; color: white; padding: 12px 25px; margin: 10px; text-decoration: none; border-radius: 5px; font-weight: bold;">
-      Python-Lair
-    </a>
-    <a href="https://geometria-aurea.replit.app/" 
-       style="background-color: #e74c3c; color: white; padding: 12px 25px; margin: 10px; text-decoration: none; border-radius: 5px; font-weight: bold;">
-      Geometría Aurea
-    </a>
-  </div>
-## Live Demos 🌱
+---
 
+## 🚀 Web Pages
 
-[Visual App Demo](https://mrcabss69.github.io/LexicalMotion/)
+### Personal
+- **[Python-Lair](https://python-lair.replit.app/)**  
+  Mi espacio personal donde comparto experimentos y proyectos en Python.
 
-## ML & Decision-Making 🤔
+### Art
+- **[Geometría Aurea](https://geometria-aurea.replit.app/)**  
+  Una exploración creativa que fusiona arte y matemáticas.
 
-### Reinforce Learning
-- [Gymnasium](https://github.com/MrCabss69/Gymnasium): dedicated to applying reinforcement learning in various settings.
+---
 
-### Game Theory
-- [Machine-Learning-Blackjack](https://github.com/MrCabss69/Machine-Learning-Blackjack): employing neural networks and RL for experimenting different Blackjack strategies.
-- [PeaceChess](https://github.com/MrCabss69/PeaceChess): chess engine with a-b prunning and Zobrist hashing / MCTS, tree-search and optimization.
-- **CFR-Nash Preflop Solver**
+## 🌱 Live Demos
 
-### Understanding AI
-- [Machine-Learning](https://github.com/MrCabss69/Machine-Learning): general ML, tutorials and more
+- **[Visual App Demo](https://mrcabss69.github.io/LexicalMotion/)**  
+  Descubre una demostración interactiva de mis aplicaciones visuales.
 
-## Tools 🛠️
-### Prompt engenieering 
-- [RepoGPT](https://github.com/MrCabss69/RepoGPT): repository summarization and processing tool, preparing files for input in your preferred format for LLMs.
+---
 
-### Games
-- [Laravel and Python TicTacToe](https://github.com/MrCabss69/TicTacToe): A web-based Tic Tac Toe game.
-- [MiniFlopZilla](https://github.com/MrCabss69/MiniFlopZilla): A Tkinter UI for calculating poker odds.
+## 🤖 ML & Toma de Decisiones
 
-### Wrappers
-- [Python-Catastro](https://github.com/MrCabss69/Python-Catastro): A wrapper for straightforward Spanish Catastro API access via Python.
-- [DeepState](https://github.com/MrCabss69/DeepState_Vigilant)
-- [PaginasAmarillas](https://github.com/MrCabss69/pySpainLeads)
-- 
-### Free Music
-- [Youtube List Downloader](https://github.com/MrCabss69/Yt-Playlist-Download)
+### Reinforcement Learning
+- **[Gymnasium](https://github.com/MrCabss69/Gymnasium)**  
+  Proyectos dedicados a la aplicación de reinforcement learning en diversos entornos.
 
-### Puzzles
-- [Espirales](https://github.com/MrCabss69/Espirales)
-- [LightsOut](https://github.com/MrCabss69/LightsOut)
-- [FloatingBits](https://github.com/MrCabss69/FloatingBits)
+### Teoría de Juegos
+- **[Machine-Learning-Blackjack](https://github.com/MrCabss69/Machine-Learning-Blackjack)**  
+  Experimenta con estrategias de Blackjack usando redes neuronales y RL.  
+- **[PeaceChess](https://github.com/MrCabss69/PeaceChess)**  
+  Un motor de ajedrez que utiliza poda alpha-beta, hashing Zobrist, MCTS y técnicas de optimización.  
+- **CFR-Nash Preflop Solver**  
+  (Próximamente)
 
-### Coding Art
-- [OrbitalCanvas](https://github.com/MrCabss69/OrbitalCanvas)
+### Comprensión de la IA
+- **[Machine-Learning](https://github.com/MrCabss69/Machine-Learning)**  
+  Tutoriales y proyectos generales sobre machine learning.
+
+---
+
+## 🛠️ Herramientas y Proyectos
+
+### Ingeniería de Prompts
+- **[RepoGPT](https://github.com/MrCabss69/RepoGPT)**  
+  Herramienta para resumir y procesar repositorios, preparando archivos para tu LLM preferido.
+
+### Juegos
+- **[Laravel and Python TicTacToe](https://github.com/MrCabss69/TicTacToe)**  
+  Un juego web clásico de Tic Tac Toe.  
+- **[MiniFlopZilla](https://github.com/MrCabss69/MiniFlopZilla)**  
+  Interfaz Tkinter para calcular probabilidades en poker.
+
+### Wrappers y Accesos Rápidos
+- **[Python-Catastro](https://github.com/MrCabss69/Python-Catastro)**  
+  Wrapper para acceder fácilmente al API del Catastro español.  
+- **[DeepState](https://github.com/MrCabss69/DeepState_Vigilant)**  
+- **[PaginasAmarillas](https://github.com/MrCabss69/pySpainLeads)**  
+
+### Música Gratuita
+- **[Youtube List Downloader](https://github.com/MrCabss69/Yt-Playlist-Download)**  
+  Descarga listas de reproducción de YouTube de forma sencilla.
+
+### Puzzles y Retos
+- **[Espirales](https://github.com/MrCabss69/Espirales)**
+- **[LightsOut](https://github.com/MrCabss69/LightsOut)**
+- **[FloatingBits](https://github.com/MrCabss69/FloatingBits)**
+
+### Arte en Código
+- **[OrbitalCanvas](https://github.com/MrCabss69/OrbitalCanvas)**  
+  Explora la intersección entre arte y programación con este proyecto visual.
