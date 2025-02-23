@@ -14,7 +14,7 @@
 
 ### Art
 - **[Geometría Aurea](https://geometria-aurea.replit.app/)**  
-  Una exploración creativa de la obra de mi padre, Carlos, que fusiona arte y matemáticas.
+  Una exploración creativa de la obra de mi padre, fusionando arte y matemáticas.
 
 ---
 
