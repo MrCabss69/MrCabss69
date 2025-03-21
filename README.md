@@ -9,7 +9,7 @@
 ## 🚀 Web Pages
 
 ### Personal
-- **[Python-Lair](https://python-lair.replit.app/)**  
+- **[Python-Lair](https://python-lair.space/)**  
   Espacio personal de experimentos y proyectos en Python.
 
 ### Art
