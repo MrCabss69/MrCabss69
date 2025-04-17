@@ -8,14 +8,14 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy .0, desarrollador especializado en Machine Learning, IA, teoría de juegos y programación creativa. Exploro problemas complejos relacionados con optimización, decisiones estratégicas, creación de herramientas avanzadas basadas en LLMs, y proyectos que combinan tecnología y arte.
+Desarrollador especializado en Machine Learning, IA, teoría de juegos y programación creativa. Me gustan los problemas complejos relacionados con sistemas, optimización, decisiones estratégicas, y desarollo de aplicaciones basadas en LLMs.
 
 ---
 
-## 🌐 Webs Personales
+## 🌐 Webs
 
 - **[Python-Lair 🐍](https://python-lair.space/)**:  
-Espacio dedicado a experimentos y proyectos personales en Python.
+Espacio dedicado de tutoriales, experimentos y proyectos personales en Python.
 
 - **[Geometría Áurea 🎨](https://geometria-aurea.replit.app/)**:  
 Exploración artística inspirada en el trabajo geométrico y visual de mi padre.
@@ -34,7 +34,7 @@ Estoy abierto a colaboraciones y discusiones interesantes. Puedes contactarme a 
 
 ---
 
-## 🚀 Tecnologías principales
+## Tecnologías
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
