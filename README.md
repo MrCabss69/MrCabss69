@@ -29,4 +29,4 @@ Exploración artística inspirada en el trabajo geométrico y visual de mi padre
 
 ---
 
-X [IntrinsicalAI](https://x.com/IntrinsicalAI) | Instagram [IntrinsicalAI](https://www.instagram.com/intrinsicalai/)
+X [IntrinsicalAI](https://x.com/IntrinsicalAI) | Instagram [IntrinsicalAI](https://www.instagram.com/intrinsicalai/) | Medium [IntrinsicalAI](https://medium.com/@IntrinsicalAI/)
