@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About me
 
-Desarrollador especializado en Datos (ETL+Analysis), ML/DL y LLMs. Me gustan los problemas relacionados con sistemas, decisiones estratégicas, optimización... y también **desarrollar** aplicaciones basadas en agentes.
+Desarrollador de Datos (ETL+Analysis), ML/DL y LLMs. Me gustan los problemas de sistemas, decisiones estratégicas, optimización... y también **desarrollar** aplicaciones basadas en agentes.
 
 Antes de ChatGPT, a mi también me gustaba programar a mano en [**Codewars**](https://www.codewars.com/users/Fever69)
 
